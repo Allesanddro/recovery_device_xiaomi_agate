@@ -3,7 +3,7 @@ dist: focal
 group: edge
 language: generic
 git:
-  depth: 1
+  depth: 2
 addons:
   apt:
     update:
